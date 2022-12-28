@@ -1,0 +1,2 @@
+# mySecondProject
+java automation learning
